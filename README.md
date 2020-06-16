@@ -6,5 +6,5 @@ HRTimer t;
 t.start();
 ..some function..
 t.stop();
-std::cout << t.toSeconds;
+std::cout << t.toSeconds();
 ```
